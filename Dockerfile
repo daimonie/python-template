@@ -1,4 +1,4 @@
-from python:3.12-slim-bookworm
+from python:3.12.3
 
 # update the debian packages
 RUN apt-get update

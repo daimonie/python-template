@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "python"
+name = "templatepython"
 version = "0.1.0"
 description = ""
 authors = ["J. S. de Boer <joskodeboer@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.12.1"
+python = "3.12.3"
 polars = "^0.19.15"
 seaborn-polars = "^0.0.2.6"
 fastapi = "^0.104.1"
